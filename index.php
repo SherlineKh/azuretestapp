@@ -1,9 +1,3 @@
-?php
-      include 'db_connection.php';
+<?php
+include "mysql-connection.php";
 ?>
-<head>
-    <title>Simple PHP database connection.</title>
-  </head>
-  <body>  
-  </body>
-</html>
