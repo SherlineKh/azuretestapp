@@ -1,11 +1,9 @@
-<!doctype html>
-<html>
-  <head>
+?php
+      include 'db_connection.php';
+?>
+<head>
     <title>Simple PHP database connection.</title>
   </head>
-  <body>
-    <?php
-      include 'db_connection.php';
-      ?>  
+  <body>  
   </body>
 </html>
