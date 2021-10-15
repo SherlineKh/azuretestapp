@@ -1,5 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>PHP db connection Test</title>
+</head>
+<body>
+    <h1></h1
 <?php
-<h2>Database connection test!!</h2>
-include "mysql-connection.php";
-
-?>
+    include 'mysql-connection.php';
+?>  
+</body>
+</html>
+    
